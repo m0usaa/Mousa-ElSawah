@@ -251,6 +251,7 @@ section{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    vertical-align: middle;
 }
 
 .footer-title{
@@ -260,7 +261,7 @@ section{
 
 .footer-title span{
     color: #3a6cf4; 
-    margin-left: 400px;
+    margin-left: 450px;
 }
 
 .footer p{
