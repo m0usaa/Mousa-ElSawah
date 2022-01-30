@@ -22,6 +22,10 @@ header{
     border-bottom: #3a6cf4 3px solid;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 .logo{
     text-decoration: none;
     color: #3a6cf4;
